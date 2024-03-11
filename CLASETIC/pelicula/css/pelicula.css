@@ -1,0 +1,32 @@
+
+body {
+ background-color : #A28B97;
+}
+
+h1 {
+	color: blue;
+	--background-color: white;
+}
+h2{
+color: #772C39;	
+}
+
+p {
+	color: black;
+	font-family: arial;
+}
+
+#imagen_portada 
+{
+	width: 200px;
+	height: 280px;
+}
+
+span.rojo
+{
+	color:red;
+}
+
+.valores-tabla{
+	padding-left: 30px;
+}
